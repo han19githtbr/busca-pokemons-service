@@ -3,7 +3,7 @@ import { Component } from '@angular/core';
 @Component({
   selector: 'app-root',
   template: `
-  <h1 class="title">Aula de Services</h1>
+  <h1 class="title">Busca de Pokemons em tempo real</h1>
   <app-card></app-card>
   <router-outlet></router-outlet>
 
